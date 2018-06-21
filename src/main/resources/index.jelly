@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides <a href="https://github.com/jenkinsci/jna-posix">jna-posix</a> API for other plugins.
+</div>
